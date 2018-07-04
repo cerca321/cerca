@@ -5281,12 +5281,20 @@ footer .row-content.buffer {
 .slogo {
     width: 6.5em
 }
+.slogo.iitdLogo{
+    width:3.5em;
+}
 .captionz {
     top:104.25px !important;
 }
 header.fixed-header .slogo {
     width: 3.5em
 }
+
+header.fixed-header .slogo.iitdLogo {
+    width: 2em
+}
+
 header.fixed-header .topm {
     margin-top: 9px
 }
@@ -5385,4 +5393,8 @@ aside .widget h4 {
     padding-right: 19px;
     padding-top: 8px;
     padding-bottom: 8px;
+}
+
+a.redAdvisory{
+    color:#c16436;
 }
