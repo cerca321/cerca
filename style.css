@@ -5281,12 +5281,20 @@ footer .row-content.buffer {
 .slogo {
     width: 6.5em
 }
+.slogo.iitdLogo{
+    width:3.5em;
+}
 .captionz {
     top:104.25px !important;
 }
 header.fixed-header .slogo {
     width: 3.5em
 }
+
+header.fixed-header .slogo.iitdLogo {
+    width: 2em
+}
+
 header.fixed-header .topm {
     margin-top: 9px
 }
